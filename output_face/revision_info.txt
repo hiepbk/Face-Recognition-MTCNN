@@ -1,0 +1,7 @@
+arguments: d:\AI Project\Pycharm project\detect_face\train.py
+--------------------
+tensorflow version: 1.13.1
+--------------------
+git hash: b''
+--------------------
+b''

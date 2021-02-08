@@ -1,0 +1,13 @@
+output_face\XuanTruong\10.png 243 54 415 259
+output_face\XuanTruong\11.png 190 27 344 217
+output_face\XuanTruong\12.png 314 41 474 231
+output_face\XuanTruong\13.png 150 25 298 199
+output_face\XuanTruong\14.png 1599 467 2397 1498
+output_face\XuanTruong\15.png 208 58 372 253
+output_face\XuanTruong\16.png 243 31 388 199
+output_face\XuanTruong\17.png 181 9 288 139
+output_face\XuanTruong\18.png 222 43 320 157
+output_face\XuanTruong\19.png 183 31 307 173
+output_face\XuanTruong\20.png 153 47 330 254
+output_face\XuanTruong\21.png 224 56 425 297
+output_face\XuanTruong\9.png 245 22 349 145

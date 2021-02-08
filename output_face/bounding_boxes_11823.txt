@@ -1,0 +1,449 @@
+output_face\AnhDuc\1.png 213 17 328 156
+output_face\AnhDuc\2.png 1706 589 2101 1114
+output_face\AnhDuc\3.png 326 69 660 488
+output_face\AnhDuc\4.png 391 54 673 410
+output_face\AnhDuc\5.png 186 11 304 153
+output_face\AnhDuc\6.png 688 158 1057 649
+output_face\AnhDuc\7.png 302 59 572 385
+output_face\AnhDuc\8.png 393 95 624 378
+output_face\AnhDuc\9.png 146 28 297 210
+output_face\BuiTienDungHV\1.png 250 65 444 308
+output_face\BuiTienDungHV\10.png 306 75 420 212
+output_face\BuiTienDungHV\11.png 586 789 919 1181
+output_face\BuiTienDungHV\12.png 583 842 962 1302
+output_face\BuiTienDungHV\13.png 661 518 1152 1113
+output_face\BuiTienDungHV\2.png 171 13 281 145
+output_face\BuiTienDungHV\3.png 454 60 694 367
+output_face\BuiTienDungHV\4.png 104 15 195 118
+output_face\BuiTienDungHV\5.png 254 44 435 267
+output_face\BuiTienDungHV\6.png 285 143 520 446
+output_face\BuiTienDungHV\7.png 352 45 554 306
+output_face\BuiTienDungHV\9.png 253 183 571 565
+output_face\BuiTienDungTM\1.png 219 35 368 206
+output_face\BuiTienDungTM\10.png 458 161 709 485
+output_face\BuiTienDungTM\11.png 270 228 414 412
+output_face\BuiTienDungTM\12.png 850 223 1215 701
+output_face\BuiTienDungTM\13.png 403 71 696 448
+output_face\BuiTienDungTM\14.png 222 27 330 154
+output_face\BuiTienDungTM\15.png 191 29 327 193
+output_face\BuiTienDungTM\16.png 293 14 387 128
+output_face\BuiTienDungTM\17.png 345 169 519 374
+output_face\BuiTienDungTM\18.png 185 26 312 171
+output_face\BuiTienDungTM\19.png 294 80 456 256
+output_face\BuiTienDungTM\2.png 252 44 382 201
+output_face\BuiTienDungTM\20.png 285 0 398 136
+output_face\BuiTienDungTM\3.png 281 0 359 88
+output_face\BuiTienDungTM\4.png 110 38 241 192
+output_face\BuiTienDungTM\5.png 286 32 399 164
+output_face\BuiTienDungTM\6.png 454 117 611 306
+output_face\BuiTienDungTM\7.png 274 24 433 220
+output_face\BuiTienDungTM\8.png 189 9 299 143
+output_face\BuiTienDungTM\9.png 257 38 417 243
+output_face\CongPhuong\CongPhuong (1).png 111 0 311 248
+output_face\CongPhuong\CongPhuong (10).png 197 101 416 390
+output_face\CongPhuong\CongPhuong (11).png 165 51 305 208
+output_face\CongPhuong\CongPhuong (12).png 352 24 470 178
+output_face\CongPhuong\CongPhuong (13).png 159 36 241 132
+output_face\CongPhuong\CongPhuong (15).png 149 24 252 139
+output_face\CongPhuong\CongPhuong (16).png 356 66 597 371
+output_face\CongPhuong\CongPhuong (17).png 598 63 801 311
+output_face\CongPhuong\CongPhuong (2).png 156 84 382 389
+output_face\CongPhuong\CongPhuong (3).png 326 23 463 203
+output_face\CongPhuong\CongPhuong (4).png 372 184 731 615
+output_face\CongPhuong\CongPhuong (5).png 338 127 580 427
+output_face\CongPhuong\CongPhuong (6).png 464 32 686 315
+output_face\CongPhuong\CongPhuong (7).png 381 65 486 181
+output_face\CongPhuong\CongPhuong (8).png 278 37 366 143
+output_face\CongPhuong\CongPhuong (9).png 264 31 366 154
+output_face\DinhTrong\1.png 270 54 419 242
+output_face\DinhTrong\10.png 389 96 675 477
+output_face\DinhTrong\11.png 154 114 387 412
+output_face\DinhTrong\12.png 265 145 579 530
+output_face\DinhTrong\13.png 193 60 316 204
+output_face\DinhTrong\14.png 375 124 591 425
+output_face\DinhTrong\15.png 303 256 563 560
+output_face\DinhTrong\16.png 242 155 371 312
+output_face\DinhTrong\17.png 290 49 477 278
+output_face\DinhTrong\18.png 182 45 302 185
+output_face\DinhTrong\19.png 239 45 366 202
+output_face\DinhTrong\2.png 81 83 277 324
+output_face\DinhTrong\20.png 182 36 332 232
+output_face\DinhTrong\21.png 393 123 559 331
+output_face\DinhTrong\22.png 454 28 541 128
+output_face\DinhTrong\3.png 809 311 1196 802
+output_face\DinhTrong\4.png 446 197 558 348
+output_face\DinhTrong\5.png 149 154 384 454
+output_face\DinhTrong\6.png 147 213 306 414
+output_face\DinhTrong\8.png 305 349 478 575
+output_face\DinhTrong\9.png 453 48 582 206
+output_face\DucChinh\1.png 195 15 301 144
+output_face\DucChinh\2.png 626 105 764 282
+output_face\DucChinh\3.png 397 147 609 394
+output_face\DucChinh\4.png 236 12 356 158
+output_face\DucChinh\5.png 296 47 444 224
+output_face\DucChinh\6.png 252 36 400 212
+output_face\DucChinh\7.png 229 63 391 256
+output_face\DucChinh\8.png 210 52 426 322
+output_face\DucHuy\1.png 434 81 732 461
+output_face\DucHuy\10.png 305 59 503 314
+output_face\DucHuy\11.png 258 15 399 190
+output_face\DucHuy\12.png 293 42 404 177
+output_face\DucHuy\13.png 303 44 424 197
+output_face\DucHuy\14.png 210 59 397 298
+output_face\DucHuy\15.png 262 66 465 318
+output_face\DucHuy\2.png 170 74 388 340
+output_face\DucHuy\3.png 267 32 468 292
+output_face\DucHuy\4.png 179 41 479 401
+output_face\DucHuy\5.png 305 59 503 314
+output_face\DucHuy\6.png 258 15 399 190
+output_face\DucHuy\7.png 734 79 940 350
+output_face\DucHuy\8.png 303 44 424 197
+output_face\DucHuy\9.png 321 120 506 356
+output_face\Dung\10300764_1521470961444159_967055513794523320_n.png 256 239 533 578
+output_face\Dung\11703159_1627337874190800_8072678054826638630_n.png 117 56 382 361
+output_face\Dung\12281646_1668839310040656_550105376_o.png 276 84 489 347
+output_face\Dung\12297890_1668539950070592_1984419220_o.png 243 167 387 338
+output_face\Dung\13256268_1737835619807691_6163070340914924720_n.png 238 49 493 358
+output_face\Dung\16668_1462469420677647_6659593406149696631_n.png 97 183 310 423
+output_face\Dung\19243186_1925896071001644_3807427864872914789_o.png 167 382 429 707
+output_face\Dung\19466457_1927794594145125_3933750756893347664_o.png 118 405 396 744
+output_face\Dung\20882638_1954339044824013_1699342283748606123_n.png 126 252 418 596
+output_face\Dung\39580673_2169535776637671_8179750028227641344_n.png 480 69 860 494
+output_face\Dung\Capture.png 21 130 361 560
+output_face\DuyManh\1.png 193 92 464 422
+output_face\DuyManh\10.png 292 67 465 287
+output_face\DuyManh\11.png 323 46 524 301
+output_face\DuyManh\12.png 349 28 467 172
+output_face\DuyManh\13.png 259 60 492 347
+output_face\DuyManh\14.png 701 218 1152 794
+output_face\DuyManh\15.png 153 46 265 178
+output_face\DuyManh\16.png 532 57 776 371
+output_face\DuyManh\17.png 273 55 480 328
+output_face\DuyManh\2.png 238 66 397 256
+output_face\DuyManh\3.png 317 241 443 396
+output_face\DuyManh\4.png 431 179 679 511
+output_face\DuyManh\5.png 223 32 391 243
+output_face\DuyManh\6.png 187 103 360 314
+output_face\DuyManh\7.png 207 10 315 132
+output_face\DuyManh\8.png 220 69 405 286
+output_face\DuyManh\9.png 269 64 482 332
+output_face\Hiep\0.png 231 106 435 355
+output_face\Hiep\1.png 229 107 434 354
+output_face\Hiep\10.png 247 107 448 350
+output_face\Hiep\11.png 257 103 463 352
+output_face\Hiep\12.png 281 108 474 350
+output_face\Hiep\13.png 278 114 469 348
+output_face\Hiep\14.png 258 105 462 353
+output_face\Hiep\15.png 249 107 449 351
+output_face\Hiep\16.png 253 88 450 319
+output_face\Hiep\17.png 263 90 447 295
+output_face\Hiep\18.png 253 91 442 304
+output_face\Hiep\19.png 251 103 442 332
+output_face\Hiep\2.png 231 105 427 347
+output_face\Hiep\20.png 242 112 441 345
+output_face\Hiep\21.png 249 133 453 368
+output_face\Hiep\22.png 257 158 450 395
+output_face\Hiep\23.png 245 150 450 385
+output_face\Hiep\24.png 240 124 445 362
+output_face\Hiep\25.png 244 104 440 344
+output_face\Hiep\26.png 244 101 438 337
+output_face\Hiep\27.png 241 99 426 333
+output_face\Hiep\28.png 233 102 416 335
+output_face\Hiep\29.png 231 102 416 339
+output_face\Hiep\3.png 223 103 421 348
+output_face\Hiep\30.png 232 108 429 340
+output_face\Hiep\31.png 239 104 436 343
+output_face\Hiep\32.png 256 98 453 339
+output_face\Hiep\33.png 273 108 463 339
+output_face\Hiep\34.png 265 104 454 336
+output_face\Hiep\35.png 244 104 441 340
+output_face\Hiep\36.png 244 99 441 337
+output_face\Hiep\37.png 252 86 439 307
+output_face\Hiep\38.png 263 88 439 279
+output_face\Hiep\39.png 253 85 437 296
+output_face\Hiep\4.png 245 105 446 348
+output_face\Hiep\40.png 247 86 438 319
+output_face\Hiep\41.png 241 101 440 338
+output_face\Hiep\42.png 244 122 442 356
+output_face\Hiep\43.png 241 128 448 370
+output_face\Hiep\44.png 243 143 440 371
+output_face\Hiep\45.png 237 130 443 369
+output_face\Hiep\46.png 246 128 444 360
+output_face\Hiep\47.png 241 121 439 353
+output_face\Hiep\48.png 238 116 438 350
+output_face\Hiep\49.png 246 111 443 352
+output_face\Hiep\5.png 255 107 453 346
+output_face\Hiep\6.png 248 111 441 346
+output_face\Hiep\7.png 232 108 423 341
+output_face\Hiep\8.png 226 108 418 345
+output_face\Hiep\9.png 232 108 431 351
+output_face\Hiep\Hiep (35).png 124 331 500 817
+output_face\Hiep\Hiep (36).png 170 275 525 712
+output_face\Hiep\Hiep (37).png 141 324 545 835
+output_face\Hiep\Hiep (38).png 98 355 523 912
+output_face\Hiep\Hiep (39).png 162 334 504 790
+output_face\Hiep\Hiep.1.38.png 314 146 545 412
+output_face\Hiep\Hiep.1.39.png 356 159 578 415
+output_face\Hiep\Hiep.1.40.png 370 173 569 418
+output_face\Hiep\Hiep.Hiep.11.png 181 147 447 471
+output_face\Hiep\Hiep.Hiep.12.png 179 142 448 476
+output_face\HungDung\1.png 224 18 347 176
+output_face\HungDung\10.png 171 19 286 166
+output_face\HungDung\11.png 575 95 750 324
+output_face\HungDung\12.png 268 98 476 366
+output_face\HungDung\13.png 734 127 887 317
+output_face\HungDung\14.png 201 11 311 150
+output_face\HungDung\15.png 214 62 436 339
+output_face\HungDung\16.png 371 92 621 406
+output_face\HungDung\17.png 161 33 258 154
+output_face\HungDung\2.png 263 11 342 102
+output_face\HungDung\3.png 227 71 476 384
+output_face\HungDung\4.png 165 35 324 236
+output_face\HungDung\5.png 384 71 556 288
+output_face\HungDung\6.png 255 17 374 164
+output_face\HungDung\7.png 216 17 398 255
+output_face\HungDung\8.png 292 67 436 249
+output_face\HungDung\9.png 116 74 306 315
+output_face\Khai\Khai.1.0.png 161 240 378 480
+output_face\Khai\Khai.1.1.png 178 212 428 480
+output_face\Khai\Khai.1.10.png 29 141 278 443
+output_face\Khai\Khai.1.11.png 21 95 275 414
+output_face\Khai\Khai.1.12.png 8 75 273 384
+output_face\Khai\Khai.1.13.png 0 72 254 380
+output_face\Khai\Khai.1.14.png 0 90 224 399
+output_face\Khai\Khai.1.15.png 16 88 261 393
+output_face\Khai\Khai.1.16.png 149 74 393 392
+output_face\Khai\Khai.1.17.png 201 113 446 407
+output_face\Khai\Khai.1.18.png 187 113 431 408
+output_face\Khai\Khai.1.19.png 149 100 404 403
+output_face\Khai\Khai.1.2.png 124 172 357 470
+output_face\Khai\Khai.1.20.png 126 114 377 418
+output_face\Khai\Khai.1.21.png 85 106 343 413
+output_face\Khai\Khai.1.22.png 42 85 314 409
+output_face\Khai\Khai.1.23.png 47 71 307 386
+output_face\Khai\Khai.1.24.png 46 81 302 383
+output_face\Khai\Khai.1.25.png 38 86 300 408
+output_face\Khai\Khai.1.26.png 12 80 283 406
+output_face\Khai\Khai.1.27.png 4 103 263 405
+output_face\Khai\Khai.1.28.png 48 93 292 398
+output_face\Khai\Khai.1.29.png 52 95 301 393
+output_face\Khai\Khai.1.3.png 118 172 349 471
+output_face\Khai\Khai.1.30.png 0 107 222 391
+output_face\Khai\Khai.1.31.png 0 116 230 391
+output_face\Khai\Khai.1.32.png 0 116 230 390
+output_face\Khai\Khai.1.33.png 74 115 302 381
+output_face\Khai\Khai.1.34.png 128 102 363 386
+output_face\Khai\Khai.1.35.png 131 115 367 400
+output_face\Khai\Khai.1.36.png 105 106 353 408
+output_face\Khai\Khai.1.37.png 95 99 346 413
+output_face\Khai\Khai.1.38.png 81 102 333 410
+output_face\Khai\Khai.1.39.png 46 88 309 417
+output_face\Khai\Khai.1.4.png 105 32 360 333
+output_face\Khai\Khai.1.40.png 49 96 301 404
+output_face\Khai\Khai.1.41.png 65 80 313 406
+output_face\Khai\Khai.1.42.png 66 86 309 404
+output_face\Khai\Khai.1.43.png 39 84 298 395
+output_face\Khai\Khai.1.44.png 20 105 279 404
+output_face\Khai\Khai.1.45.png 1 112 262 417
+output_face\Khai\Khai.1.46.png 36 99 281 393
+output_face\Khai\Khai.1.47.png 74 91 283 357
+output_face\Khai\Khai.1.48.png 129 99 338 359
+output_face\Khai\Khai.1.49.png 210 110 434 379
+output_face\Khai\Khai.1.5.png 93 34 330 314
+output_face\Khai\Khai.1.6.png 75 40 333 357
+output_face\Khai\Khai.1.7.png 110 55 340 343
+output_face\Khai\Khai.1.8.png 71 46 325 363
+output_face\Khai\Khai.1.9.png 57 107 301 408
+output_face\QuangHai\44866087_1164456560376833_88345484413894656_o.png 513 195 849 618
+output_face\QuangHai\46184585_1176145489207940_6650635503555051520_o.png 233 87 347 213
+output_face\QuangHai\QuangHai (1).png 227 50 351 199
+output_face\QuangHai\QuangHai (10).png 299 161 436 327
+output_face\QuangHai\QuangHai (11).png 298 41 429 201
+output_face\QuangHai\QuangHai (12).png 230 137 404 355
+output_face\QuangHai\QuangHai (13).png 480 99 668 349
+output_face\QuangHai\QuangHai (14).png 130 18 238 152
+output_face\QuangHai\QuangHai (15).png 234 48 427 268
+output_face\QuangHai\QuangHai (16).png 159 37 385 315
+output_face\QuangHai\QuangHai (17).png 248 46 329 138
+output_face\QuangHai\QuangHai (18).png 266 89 504 389
+output_face\QuangHai\QuangHai (19).png 15 45 174 243
+output_face\QuangHai\QuangHai (2).png 280 39 379 153
+output_face\QuangHai\QuangHai (20).png 240 247 546 616
+output_face\QuangHai\QuangHai (21).png 9 87 169 276
+output_face\QuangHai\QuangHai (22).png 317 180 528 456
+output_face\QuangHai\QuangHai (23).png 753 139 909 330
+output_face\QuangHai\QuangHai (24).png 289 66 555 365
+output_face\QuangHai\QuangHai (25).png 420 500 550 650
+output_face\QuangHai\QuangHai (26).png 236 220 394 411
+output_face\QuangHai\QuangHai (27).png 273 196 426 386
+output_face\QuangHai\QuangHai (28).png 346 304 478 467
+output_face\QuangHai\QuangHai (3).png 263 20 355 128
+output_face\QuangHai\QuangHai (30).png 690 76 832 256
+output_face\QuangHai\QuangHai (31).png 71 38 251 276
+output_face\QuangHai\QuangHai (4).png 216 53 343 202
+output_face\QuangHai\QuangHai (5).png 180 78 356 285
+output_face\QuangHai\QuangHai (6).png 318 50 486 265
+output_face\QuangHai\QuangHai (7).png 206 31 337 191
+output_face\QuangHai\QuangHai (8).png 385 110 559 334
+output_face\QuangHai\QuangHai (9).png 273 81 467 308
+output_face\SonTung\SonTung_0001.png 290 41 481 288
+output_face\SonTung\SonTung_0002.png 293 63 528 299
+output_face\SonTung\SonTung_0003.png 403 123 704 495
+output_face\SonTung\SonTung_0004.png 206 13 340 177
+output_face\SonTung\SonTung_0005.png 238 61 392 249
+output_face\SonTung\SonTung_0006.png 138 15 227 120
+output_face\SonTung\SonTung_0007.png 198 41 385 253
+output_face\SonTung\SonTung_0008.png 92 103 315 370
+output_face\SonTung\SonTung_0009.png 272 88 558 439
+output_face\SonTung\SonTung_0010.png 251 46 524 386
+output_face\SonTung\SonTung_0011.png 78 16 174 122
+output_face\SonTung\SonTung_0012.png 236 72 477 388
+output_face\SonTung\SonTung_0013.png 521 127 782 457
+output_face\SonTung\SonTung_0014.png 230 17 387 193
+output_face\SonTung\SonTung_0015.png 208 37 348 229
+output_face\Thang\0c6285ab4cd3b18de8c2.png 569 55 773 320
+output_face\Thang\1.png 184 337 735 1052
+output_face\Thang\10.png 239 282 729 986
+output_face\Thang\11.png 254 378 761 1027
+output_face\Thang\12.png 176 358 713 1050
+output_face\Thang\13.png 207 360 752 1055
+output_face\Thang\14.png 181 345 711 1040
+output_face\Thang\15.png 219 380 702 1028
+output_face\Thang\16.png 198 421 767 1137
+output_face\Thang\17.png 181 345 711 1040
+output_face\Thang\18.png 258 370 793 1029
+output_face\Thang\188b0badc3d53e8b67c4.png 144 416 545 895
+output_face\Thang\19.png 220 434 778 1159
+output_face\Thang\1f1f775183297e772738.png 600 67 798 325
+output_face\Thang\2.png 135 235 819 1140
+output_face\Thang\20.png 218 329 816 1068
+output_face\Thang\21.png 202 362 683 1028
+output_face\Thang\22.png 305 469 824 1149
+output_face\Thang\23.png 215 407 757 1114
+output_face\Thang\24.png 218 400 702 1101
+output_face\Thang\25.png 206 312 765 1035
+output_face\Thang\26.png 197 298 749 987
+output_face\Thang\27.png 238 306 801 1022
+output_face\Thang\28.png 201 327 739 1013
+output_face\Thang\29.png 167 349 714 1032
+output_face\Thang\3.png 136 393 688 1107
+output_face\Thang\30.png 219 344 765 1050
+output_face\Thang\31.png 255 310 807 1029
+output_face\Thang\32.png 195 293 733 939
+output_face\Thang\33.png 183 367 681 1051
+output_face\Thang\34.png 209 387 746 1077
+output_face\Thang\35.png 214 434 789 1164
+output_face\Thang\36.png 198 420 745 1126
+output_face\Thang\37.png 200 363 749 1059
+output_face\Thang\38.png 213 350 782 1045
+output_face\Thang\39.png 207 361 717 1024
+output_face\Thang\4.png 165 396 812 1205
+output_face\Thang\40.png 197 355 689 1013
+output_face\Thang\41.png 255 310 807 1029
+output_face\Thang\42.png 218 377 763 1063
+output_face\Thang\43.png 168 403 651 1070
+output_face\Thang\44.png 220 434 778 1159
+output_face\Thang\45.png 236 345 776 1042
+output_face\Thang\46.png 181 345 711 1040
+output_face\Thang\47.png 213 368 737 1023
+output_face\Thang\48.png 220 434 778 1159
+output_face\Thang\49.png 227 422 769 1106
+output_face\Thang\5.png 136 277 810 1144
+output_face\Thang\50.png 201 327 739 1013
+output_face\Thang\55c5360aff72022c5b63.png 600 67 798 325
+output_face\Thang\6.png 109 352 794 1206
+output_face\Thang\7.png 140 349 802 1189
+output_face\Thang\71e081c675be88e0d1af.png 569 55 773 320
+output_face\Thang\7ee5d1c425bcd8e281ad.png 138 287 564 831
+output_face\Thang\8.png 149 356 816 1199
+output_face\Thang\8a37dc111169ec37b578.png 241 221 690 778
+output_face\Thang\9.png 222 283 747 966
+output_face\Thang\92481560dd1820467909.png 114 397 556 960
+output_face\Thang\fe7a478c84f479aa20e5.png 66 296 553 888
+output_face\Thanh\IMG_0465.png 701 528 1637 1791
+output_face\Thanh\IMG_0466.png 59 568 1587 2659
+output_face\Thanh\IMG_0467.png 210 324 1614 2290
+output_face\Thanh\IMG_0468.png 705 457 1649 1759
+output_face\Thanh\IMG_0469.png 593 653 1875 2438
+output_face\Thanh\IMG_0470.png 624 739 1698 2196
+output_face\Thanh\IMG_0471.png 322 717 1393 2122
+output_face\Thanh\IMG_0472.png 456 643 1726 2367
+output_face\Thanh\IMG_0473.png 451 954 1380 2275
+output_face\Thanh\IMG_0474.png 447 969 1525 2361
+output_face\Thanh\IMG_0475.png 648 829 1635 2160
+output_face\Thanh\IMG_0477.png 480 887 1463 2093
+output_face\Thanh\IMG_0479.png 663 92 1602 1355
+output_face\Thanh\IMG_0480.png 565 0 1609 1275
+output_face\Thanh\IMG_0481.png 601 869 1622 2229
+output_face\Thanh\IMG_0482.png 591 528 1888 2283
+output_face\Thanh\IMG_0483.png 648 920 1883 2327
+output_face\Thanh\IMG_0484.png 573 896 1799 2330
+output_face\Thanh\IMG_0485.png 666 681 1603 1935
+output_face\Thanh\IMG_0486.png 782 597 1668 1786
+output_face\Thanh\IMG_0487.png 731 569 1612 1738
+output_face\Thanh\IMG_0488.png 659 559 1506 1714
+output_face\Thanh\IMG_0489.png 658 840 1495 1943
+output_face\Thanh\IMG_0490.png 644 671 1478 1751
+output_face\Thanh\IMG_0491.png 488 797 1359 1902
+output_face\Thanh\IMG_0492.png 349 790 1409 2235
+output_face\Thanh\IMG_0494.png 587 1103 1654 2565
+output_face\Thanh\IMG_0495.png 995 1149 1987 2494
+output_face\Thanh\IMG_0496.png 784 1396 1865 2829
+output_face\VanDuc\1.png 297 48 433 213
+output_face\VanDuc\10.png 214 45 344 199
+output_face\VanDuc\11.png 279 81 406 233
+output_face\VanDuc\12.png 201 0 282 90
+output_face\VanDuc\13.png 359 46 495 198
+output_face\VanDuc\14.png 407 67 524 205
+output_face\VanDuc\15.png 241 32 396 226
+output_face\VanDuc\16.png 526 181 675 372
+output_face\VanDuc\17.png 295 13 459 224
+output_face\VanDuc\2.png 381 57 539 254
+output_face\VanDuc\3.png 222 12 332 144
+output_face\VanDuc\4.png 332 50 447 189
+output_face\VanDuc\5.png 150 41 291 207
+output_face\VanDuc\6.png 222 77 401 304
+output_face\VanDuc\7.png 254 44 377 195
+output_face\VanDuc\8.png 271 44 467 281
+output_face\VanDuc\9.png 176 30 429 354
+output_face\VanHau\1.png 298 33 447 234
+output_face\VanHau\10.png 191 5 299 132
+output_face\VanHau\11.png 252 18 371 164
+output_face\VanHau\12.png 587 83 746 284
+output_face\VanHau\13.png 254 37 411 228
+output_face\VanHau\14.png 190 14 325 192
+output_face\VanHau\15.png 334 39 468 203
+output_face\VanHau\16.png 204 31 331 184
+output_face\VanHau\17.png 227 76 323 189
+output_face\VanHau\18.png 242 51 392 222
+output_face\VanHau\19.png 190 13 297 146
+output_face\VanHau\2.png 295 17 402 145
+output_face\VanHau\20.png 195 94 304 224
+output_face\VanHau\21.png 202 55 385 289
+output_face\VanHau\22.png 639 45 840 310
+output_face\VanHau\3.png 298 33 447 234
+output_face\VanHau\4.png 233 18 377 194
+output_face\VanHau\5.png 273 12 386 160
+output_face\VanHau\6.png 269 32 422 227
+output_face\VanHau\7.png 200 84 422 348
+output_face\VanHau\8.png 185 22 410 301
+output_face\VanHau\9.png 345 49 558 330
+output_face\VanThanh\1.png 589 101 901 490
+output_face\VanThanh\17.png 113 84 306 326
+output_face\VanThanh\2.png 303 69 455 256
+output_face\VanThanh\VanThanh (1).png 172 14 321 201
+output_face\VanThanh\VanThanh (14).png 232 84 402 300
+output_face\VanThanh\VanThanh (5).png 246 134 578 591
+output_face\VanThanh\VanThanh (6).png 386 0 470 95
+output_face\VanThanh\VanThanh (9).png 353 134 593 431
+output_face\XuanManh\1.png 209 47 345 208
+output_face\XuanManh\2.png 781 129 1171 594
+output_face\XuanManh\3.png 539 125 758 382
+output_face\XuanTruong\1.png 240 24 433 255
+output_face\XuanTruong\2.png 247 23 344 134
+output_face\XuanTruong\3.png 190 27 344 217
+output_face\XuanTruong\4.png 159 27 293 191
+output_face\XuanTruong\5.png 505 64 683 296
+output_face\XuanTruong\6.png 248 33 374 182
+output_face\XuanTruong\7.png 387 63 546 266
+output_face\XuanTruong\8.png 162 37 277 169
