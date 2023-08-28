@@ -1,6 +1,5 @@
-# SIMPLE FACENET
-(Fork and edit from repo: https://github.com/davidsandberg/facenet)
 
+![](./result.jpg)
 ### 1. Colect data:
 Colect data and push it into ```your_face``` as bellow:
 ```buildoutcfg
