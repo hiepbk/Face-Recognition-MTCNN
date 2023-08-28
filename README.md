@@ -1,5 +1,5 @@
 
-![](./result.jpg)
+![](./result.gif)
 ### 1. Colect data:
 Colect data and push it into ```your_face``` as bellow:
 ```buildoutcfg
